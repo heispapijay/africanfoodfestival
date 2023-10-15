@@ -1,0 +1,14 @@
+.aff_navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.87rem 7.06rem 0rem;
+    align-items: center;
+}
+
+.aff_contact_button {
+    padding: 1.1rem 3.12rem;
+    background: none;
+    border: 1px solid #F6D047;
+    border-radius: 2.5rem;
+    color: #FDDE4E;
+}
