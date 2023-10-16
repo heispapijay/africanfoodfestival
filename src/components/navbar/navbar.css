@@ -13,6 +13,11 @@
     color: #FDDE4E;
 }
 
+.aff_contact_button:hover {
+    background: #F6D047;
+    color: black;
+}
+
 .aff_logo {
     display: none;
 }

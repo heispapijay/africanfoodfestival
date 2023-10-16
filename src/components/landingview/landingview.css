@@ -50,6 +50,7 @@ button {
 
 .aff_socials_button {
     background: none;
+    color: white;
     border-radius: 50%;
     height: 24px;
 }
