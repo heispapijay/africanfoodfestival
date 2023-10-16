@@ -95,6 +95,10 @@ button {
         margin: 0.6rem;
     }
 
+    .aff_comingsoon {
+        margin-top: 20px;
+    }
+
     p {
         font-size: 1rem;
     }
