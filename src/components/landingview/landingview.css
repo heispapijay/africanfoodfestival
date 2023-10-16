@@ -33,12 +33,24 @@ p {
     justify-content: center;
 }
 
-.aff_socials_button {
+button {
+    padding: 0;
+    border: none;
+}
+
+.aff_socials {
     background: none;
     border: 1px solid white;
     border-radius: 50%;
     padding: 1.44rem;
+    height: 24px;
 
+}
+
+.aff_socials_button {
+    background: none;
+    border-radius: 50%;
+    height: 24px;
 }
 
 .aff_socials_container {
@@ -86,7 +98,7 @@ p {
         padding-bottom: 1.7rem;
     }
 
-    .aff_socials_button {
+    .aff_socials {
         padding: 1rem;
         text-align: center;
     }
@@ -112,7 +124,7 @@ p {
         padding-bottom: 1rem;
     }
 
-    .aff_socials_button {
+    .aff_socials {
         padding: 0.8rem;
     }
 }

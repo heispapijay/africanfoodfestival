@@ -4,7 +4,7 @@ import './landingview.css';
 
 import logo2 from '../../assets/logo2.svg';
 import facebook from '../../assets/facebook.svg';
-import twitter from '../../assets/twitter.svg';
+import instagram from '../../assets/instagram.svg';
 
 function Landingview() {
   return (
@@ -28,7 +28,7 @@ function Landingview() {
 
         <a href='#home' className='aff_socials'>
           <button className='aff_socials_button'>
-            <img src={twitter} alt='facebook logo' />
+            <img src={instagram} alt='instagram logo' />
           </button>
         </a>
 
