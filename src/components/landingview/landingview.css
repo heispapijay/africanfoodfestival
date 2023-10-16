@@ -14,9 +14,6 @@ p {
     justify-content: center;
     padding-top: 2.2rem;
     padding-bottom: 2rem;
-    animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
 }
 
 .aff_maintext {
@@ -29,9 +26,6 @@ p {
     font-weight: 600;
     line-height: 101%;
     margin: 2rem;
-    animation: fadeInAnimation ease 3s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
 }
 
 .aff_title {
@@ -141,14 +135,5 @@ button {
 
     .aff_socials {
         padding: 0.8rem;
-    }
-}
-
-@keyframes fadeInAnimation {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
     }
 }

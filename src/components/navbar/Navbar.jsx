@@ -5,7 +5,7 @@ import logo from '../../assets/logo.svg'
 
 function Navbar() {
   return (
-    <div className='aff_navbar'>
+    <div className='aff_navbar animate__animated animate__fadeInDown'>
       <div className='aff_logo'>
         <a href='home'><img src={logo} alt='logo'/></a>
       </div>
