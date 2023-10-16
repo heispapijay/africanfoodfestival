@@ -9,6 +9,11 @@ p {
     background: #F9DA4C;
 }
 
+.aff_comingsoon-left {
+    background: #F9DA4C;
+    margin-top: 0;
+}
+
 .aff_logo2 {
     display: flex;
     justify-content: center;
@@ -56,6 +61,7 @@ button {
 }
 
 .aff_socials_container {
+    margin-top: 30px;
     position: relative;
     bottom: 0;
     display: flex;

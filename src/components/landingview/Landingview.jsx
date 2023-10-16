@@ -18,6 +18,10 @@ function Landingview() {
       AFRICAN FOOD FESTIVAL 2024
       </h1>
       </div>
+      <Marquee className='aff_comingsoon-left' direction="left" speed={100}>
+        <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
+        <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
+      </Marquee>
 
       <div className='aff_socials_container'>
         <a href='http://facebook.com/africanfoodfestival.org' className='aff_socials animate__animated animate__fadeInBottomLeft'>
