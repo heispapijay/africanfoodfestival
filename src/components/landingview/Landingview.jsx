@@ -19,14 +19,14 @@ function Landingview() {
       </h1>
       </div>
 
-      <div className='aff_socials_container animate__animated animate__fadeInUpBig'>
-        <a href='#home' className='aff_socials'>
+      <div className='aff_socials_container'>
+        <a href='#home' className='aff_socials animate__animated animate__fadeInBottomLeft'>
           <button className='aff_socials_button'>
             <img src={facebook} alt='facebook logo' />
           </button>
         </a>
 
-        <a href='#home' className='aff_socials'>
+        <a href='#home' className='aff_socials animate__animated animate__fadeInBottomRight'>
           <button className='aff_socials_button'>
             <img src={instagram} alt='instagram logo' />
           </button>
