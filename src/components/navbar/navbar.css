@@ -1,6 +1,6 @@
 .aff_navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     padding: 1.87rem 7.06rem 0rem;
     align-items: center;
 }
@@ -11,6 +11,10 @@
     border: 1px solid #F6D047;
     border-radius: 2.5rem;
     color: #FDDE4E;
+}
+
+.aff_logo {
+    display: none;
 }
 
 @media (max-width: 840px) {
