@@ -12,3 +12,21 @@
     border-radius: 2.5rem;
     color: #FDDE4E;
 }
+
+@media (max-width: 840px) {
+    .aff_navbar {
+        padding: 1.4rem 2.06rem 0rem;
+    }
+
+    .aff_contact_button {
+        padding: 0.9rem 1.88rem;
+    }
+}
+
+@media (max-width: 418px) {
+    .aff_navbar {
+        padding: 1.4rem 1.06rem 0rem;
+    }
+
+}
+

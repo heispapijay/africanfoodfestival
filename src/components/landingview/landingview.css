@@ -38,10 +38,71 @@ p {
     border: 1px solid white;
     border-radius: 50%;
     padding: 1.44rem;
+
 }
 
 .aff_socials_container {
     display: flex;
     justify-content: center;
     gap: 1.56rem;
+}
+
+@media (max-width: 840px) {
+    .aff_maintext {
+        font-size: 4.7rem;
+        width: 100%;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .aff_logo2 {
+        padding-top: 1.8rem;
+        padding-bottom: 1.6rem;
+    }
+
+    .logo2 {
+        width: 193px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 647px) {
+    .aff_maintext {
+        font-size: 3.2rem;
+        width: 100%;
+        margin: 0.6rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .aff_logo2 {
+        padding-top: 1.8rem;
+        padding-bottom: 1.7rem;
+    }
+
+    .aff_socials_button {
+        padding: 1rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 418px) {
+    .aff_maintext {
+        font-size: 2.5rem;
+        width: 100%;
+        margin: 0.6rem;
+    }
+
+    .aff_logo2 {
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+    }
+
+    .aff_socials_button {
+        padding: 0.8rem;
+    }
 }

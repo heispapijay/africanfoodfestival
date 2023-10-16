@@ -9,7 +9,7 @@ import twitter from '../../assets/twitter.svg';
 function Landingview() {
   return (
     <div className='aff_main'>
-    <div  className='aff_logo2'> <img src={logo2} alt='logo'/></div>
+    <div  className='aff_logo2'> <img className='logo2' src={logo2} alt='logo'/></div>
       <Marquee className='aff_comingsoon' direction="left" speed={100}>
         <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
         <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
