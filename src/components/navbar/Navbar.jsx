@@ -10,7 +10,7 @@ function Navbar() {
         <a href='home'><img src={logo} alt='logo'/></a>
       </div>
       <div className='aff_contact'>
-        <button className='aff_contact_button'>Contact Us</button>
+        <a href='mailto:info@africanfoodfestival.org'><button className='aff_contact_button'>Contact Us</button></a>
       </div>
     </div>
   )
