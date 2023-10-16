@@ -111,10 +111,10 @@ button {
 
     .aff_socials_container {
         position: fixed;
-  left: 50%;
-  bottom: 0;
-  transform: translate(-50%, -50%);
-  margin: 0 auto;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%, -50%);
+        margin: 0 auto;
     }
 }
 
