@@ -19,7 +19,7 @@ function Landingview() {
       </h1>
       </div>
 
-      <div className='aff_socials_container animate__animated animate__fadeInUp'>
+      <div className='aff_socials_container animate__animated animate__fadeInUpBig'>
         <a href='#home' className='aff_socials'>
           <button className='aff_socials_button'>
             <img src={facebook} alt='facebook logo' />
