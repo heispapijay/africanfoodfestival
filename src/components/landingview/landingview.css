@@ -42,6 +42,8 @@ p {
 }
 
 .aff_socials_container {
+    position: relative;
+    bottom: 0;
     display: flex;
     justify-content: center;
     gap: 1.56rem;
@@ -87,6 +89,14 @@ p {
     .aff_socials_button {
         padding: 1rem;
         text-align: center;
+    }
+
+    .aff_socials_container {
+        position: fixed;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
     }
 }
 

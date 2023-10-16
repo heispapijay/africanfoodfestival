@@ -1,6 +1,6 @@
 .aff_navbar {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     padding: 1.87rem 7.06rem 0rem;
     align-items: center;
 }
