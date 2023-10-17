@@ -24,13 +24,13 @@ function Landingview() {
       </Marquee>
 
       <div className='aff_socials_container'>
-        <a href='http://facebook.com/africanfoodfestival.org' className='aff_socials animate__animated animate__fadeInBottomLeft'>
+        <a href='http://facebook.com/affdallas' className='aff_socials animate__animated animate__fadeInBottomLeft'>
           <button className='aff_socials_button'>
             <img src={facebook} alt='facebook logo' />
           </button>
         </a>
 
-        <a href='http://instagram.com/africanfoodfestival.org' className='aff_socials animate__animated animate__fadeInBottomRight'>
+        <a href='http://instagram.com/affdallas' className='aff_socials animate__animated animate__fadeInBottomRight'>
           <button className='aff_socials_button'>
             <img src={instagram} alt='instagram logo' />
           </button>
