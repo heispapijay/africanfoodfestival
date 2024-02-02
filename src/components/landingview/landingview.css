@@ -21,6 +21,11 @@ p {
     padding-bottom: 2rem;
 }
 
+.logo2 {
+    width: 100px;
+    height: 100px;
+}
+
 .aff_maintext {
     color: #FFF;
     width: 53.0625rem;
@@ -90,7 +95,7 @@ button {
     }
 
     .logo2 {
-        width: 193px;
+        width: 80px;
         height: 80px;
     }
 }

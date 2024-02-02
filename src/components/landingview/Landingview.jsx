@@ -2,14 +2,14 @@ import React from 'react';
 import Marquee from 'react-fast-marquee';
 import './landingview.css';
 
-import logo2 from '../../assets/logo2.svg';
+import logo from '../../assets/aff.png';
 import facebook from '../../assets/facebook.svg';
 import instagram from '../../assets/instagram.svg';
 
 function Landingview() {
   return (
     <div className='aff_main'>
-    <div  className='aff_logo2 animate__animated animate__fadeInUp'> <img className='logo2' src={logo2} alt='logo'/></div>
+    <div  className='aff_logo2 animate__animated animate__fadeInUp'> <img className='logo2' src={logo} alt='logo'/></div>
       <Marquee className='aff_comingsoon' direction="left" speed={100}>
         <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
         <p>&nbsp;  Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon   |   Coming Soon  |    Coming Soon   |</p>
