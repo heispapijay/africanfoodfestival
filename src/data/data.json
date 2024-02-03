@@ -131,18 +131,18 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "Western Africa",
+      "img": "img/team/bella.jpg",
+      "name": "Bella Shmurda",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Central Eastern Africa",
+      "img": "img/team/02.png",
+      "name": "Guest Name",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Southern Africa",
+      "img": "img/team/02.png",
+      "name": "Guest Name",
       "job": "Senior Designer"
     }
   ],

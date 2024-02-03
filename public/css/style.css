@@ -206,7 +206,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  width: 100%;
+  width: 100vh;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
   background-color: #e5e5e5;
@@ -221,7 +221,7 @@ a:focus,
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 82px;
+  font-size: 80px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
