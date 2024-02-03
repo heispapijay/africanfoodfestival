@@ -7,7 +7,9 @@
 button {
     cursor: pointer;
 }
-
+.col-xs-6 {
+  width: auto;
+}
 .btn-custom {
     background-color: #cbad04;
     color: white;
