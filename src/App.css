@@ -43,6 +43,7 @@ button {
   
   .intro {
     background: url(assets/bgimg.jpg) center center no-repeat;
+    width: 100%;
   }
   
   .section-title h2::after {

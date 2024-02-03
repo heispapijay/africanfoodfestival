@@ -7,7 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Guest Artistes</h2>
           <p>
-            Our proposed guest artistes for the AFF Dallas 2024
+          This festival will be headlined by an artiste each from West, South and Central Africa.
           </p>
         </div>
         <div id="row" className="center">
