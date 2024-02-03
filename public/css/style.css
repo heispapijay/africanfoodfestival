@@ -490,6 +490,6 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
-    width: auto;
+    width: 200px;
   }
 }
