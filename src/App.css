@@ -1,5 +1,5 @@
 .App {
-    background-color: black;
+    /* background-color: black; */
     width: 100%;
     height: 100vh;
 }
@@ -7,3 +7,75 @@
 button {
     cursor: pointer;
 }
+
+.btn-custom {
+    background-color: #cbad04;
+    color: white;
+    background-image: linear-gradient(to right, #cbad04 0%, #ffcc00 100%);
+   
+  }
+  
+  .logo {
+    width: 24px;
+    height: 24px;
+  }
+  
+  #menu.navbar-default .navbar-nav > li > a {
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    color: #555;
+  }
+  .headerimg {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .center {
+    display: inline-flex;
+    justify-content: center;
+  }
+  
+  .intro {
+    background: url(assets/bgimg.jpg) center center no-repeat;
+  }
+  
+  .section-title h2::after {
+    background: linear-gradient(to right, #cbad04 0%, #ffcc00  100%);
+  }
+  
+  #about h2::after {
+    background: linear-gradient(to right, #cbad04 0%, #ffcc00  100%);
+  }
+  
+  #features i.fa {
+    background: linear-gradient(to right, #cbad04 0%, #ffcc00 100%);
+  }
+  
+  #about .about-text li:before {
+    color: #cbad04;
+  }
+  
+  @media screen and (max-width: 400px) {
+    #features {
+      padding: 20px;
+      width: 111%;
+    }
+    #about,
+    #services,
+    #testimonials,
+    #team,
+    #contact,
+    #footer {
+      width: 111%;
+    }
+  
+    #portfolio {
+      width: 110%;
+    }
+    .center {
+    flex-direction: column;
+  }
+  }
+  
+  
+  
