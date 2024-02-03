@@ -67,21 +67,15 @@ button {
       width: 100%;
     }
     #about,
-    #services,
-    #testimonials,
     #team,
     #contact,
     #footer {
-      width: 111%;
-    }
-  
-    #portfolio {
-      width: 110%;
+      width: 100%;
     }
     .center {
     flex-direction: column;
   }
-  }
+}
   
   
   
