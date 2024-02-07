@@ -58,7 +58,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2024 African Fashion Festival. 
+            &copy; 2024 African Food Festival. 
           </p>
         </div>
       </div>
